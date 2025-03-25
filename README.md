@@ -52,13 +52,13 @@ This game was developed in **Unity using C#** and **voice recognition technologi
 
 ## Credits 🎖️
 
-- 👨‍💻 **Game Developer:** [Your Name/Team Name]
-- 🗣️ **Voice Recognition System:** [Library/Technology Used]
-- 🎨 **Art & Sound Design:** [Contributors]
+- 👨‍💻 **Game Developer:** PIXELATED DREAMS STUDIO
+- 🗣️ **Voice Recognition System:** VOICEBOT
+- 🎨 **Art & Sound Design:** PIXELATED DREAMS STUDIO 
 
 ## Contact & Support 📩
 
-For any issues or suggestions, please contact us at **[Your Contact Email or Website]**.
+**[ANY SUGGESTION]**
 
 🎙️🚀 **Enjoy your space adventure, and may your voice guide you to victory!** 🌟
 
