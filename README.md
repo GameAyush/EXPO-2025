@@ -4,7 +4,7 @@
 
 ## Overview
 
-**Voice-Controlled Space Adventure** is an immersive game developed in Unity where players navigate through space using **voice commands**. The objective is to **collect various collectibles** of different values and a **special item** while **avoiding deadly mines** and traversing different sections of the map. The challenge is to **stay alive** while navigating the dangers of space! 🌌
+**Cosmovox** is an immersive game developed in Unity where players navigate through space using **voice commands**. The objective is to **collect various collectibles** of different values and a **special item** while **avoiding deadly mines** and traversing different sections of the map. The challenge is to **stay alive** while navigating the dangers of space! 🌌
 
 ## Features
 
